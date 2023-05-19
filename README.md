@@ -15,12 +15,11 @@
 
 # 🔗 배포 주소
 ---
-🌿 네모비 https://nemov.store
-
+🌿 네모비 https://f10-team03-client.vercel.app/
 
 # 🔧 기술 스택
 ---
-
+`Javascript` `Typescript` `React` `Nextjs` `Apollo` `Graphql` `Recoil` `Emotion` `ToastUI` `Docker` `GCP` `PWA`
 
 # FrontEnd 팀원 역할
 ***
@@ -33,6 +32,10 @@
 
 👾 https://github.com/lsenaa
 
+- 마이 페이지(주문/취소 내역, 장바구니, 찜한 상품, 포인트 내역, 상품 후기, 내 정보 변경, 비밀번호 변경)
+- 로그인 / 회원가입 페이지 (+ 아이디, 비밀번호 찾기)
+- PWA
+- FE git 관리
 
 ## 안범
 ---
@@ -42,32 +45,65 @@
 
 👾 https://github.com/mibu119
 
-- 마켓 페이지(베스트/추천 아이템 조회, 장바구니, 찜하기, 상품 문의 등록), 공통 컴포넌트 제작
+- 마켓 페이지(베스트/추천 아이템 조회, 마켓 리스트/상세 페이지 조회, 장바구니, 찜하기, 상품 후기 조회, 상품 문의 등록)
+- 공통 컴포넌트 제작
 - 배포 
 - 노션 제작 및 관리
 - 회의록 작성
 
 ## 남예지
 ---
-📧
+📧 applednajs@gmail.com
 
-🖥️
+🖥️ https://velog.io/@namyeji
 
-👾
+👾 https://github.com/namYeJi9q
 
 - 판매자 페이지(상품 등록/수정/삭제, 판매자 내역 조회)
 - 최근 본 상품
 - 반응형 디자인 제작
-- 
+- 서브베너 제작, 매거진 페이지 제작
 
+***
+
+# 설치 방법
+Node.js는 신규 버전의 버그가 있을 수 있어 LTS 버전을 설치합니다.
+```
+yarn install
+```
+# 환경 변수
+환경 변수는 PWA 설치 및 실행을 위하여 .env 라는 이름으로 파일을 생성하여 아래 내용을 기입해주세요.
+```
+NEXT_PUBLIC_FIREBASE_API_KEY=
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=
+NEXT_PUBLIC_FIREBASE_APP_ID=
+NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=
+NEXT_PUBLIC_FIREBASE_MESSAGING_VAPID_KEY=
+```
+
+# 웹 실행
+```
+// development
+yarn dev
+```
+
+# Swagger 접속 주소
+환경변수에서 포트 부분을 변경할 경우 해당 포트를 기입해주세요.
+```
+http://localhost:3000/pages
+```
+***
 
 # 📈 Flow Chart
 ---
 ![Flowchart (1)](https://user-images.githubusercontent.com/114740795/213332612-12073458-ed40-4885-84f5-45c688f1c39c.png)
 
-# 👩🏻‍💻 서비스 시연
-
 ***
+
+# 👩🏻‍💻 서비스 시연
 
 ## 랜딩 페이지
 ---
@@ -91,6 +127,11 @@
 
 ## 로그인 페이지
 ---
+### 일반 회원
+![일반회원 로그인시연](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/b6fd9bcf-c519-493e-856a-96e96c1a0bd7)
+
+### 판매자 회원
+![판매자로그인시연-web](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/450d76ea-6d33-4c29-b6e2-4822b7a57771)
 
 
 ## 마켓 리스트 페이지
@@ -101,10 +142,6 @@
 ## 마켓 상세 페이지
 ---
 ![_______________________-web](https://user-images.githubusercontent.com/114740795/213345684-d37fcb17-6add-45b5-a883-8b8dae62dc88.gif)
-
-
-## 문의 등록
----
 
 
 ## 찜하기, 장바구니 기능
@@ -144,8 +181,15 @@
 
 ## 판매자 페이지
 ---
+![판매자상품등록시연06-web](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/2d4420db-7276-4347-a232-cd0f005afcea)
+![판매자상품수정시연-web](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/a4a55cec-28a0-4f45-a694-84314c59fbd1)
+![상품문의답변등록03-web](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/5246c4cd-3a77-4f1c-9368-4c4ea3765f4c)
+![상품문의답변수정-web](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/b9d6f93d-f00a-441b-a8c3-ccd14027aeec)
 
 
+## 매거진 페이지
+---
+![__________________-web](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/141a9211-bc28-4f38-819b-7dd622f9b65d)
 
 
 
