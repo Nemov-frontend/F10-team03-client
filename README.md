@@ -179,18 +179,6 @@ http://localhost:3000/pages
 ![후기수정:삭제시연-web](https://user-images.githubusercontent.com/114740795/213346639-81faf81e-279f-4f61-a194-7ea88f2cd23c.gif)
 
 
-## 판매자 페이지
----
-![판매자상품등록시연06-web](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/2d4420db-7276-4347-a232-cd0f005afcea)
-![판매자상품수정시연-web](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/a4a55cec-28a0-4f45-a694-84314c59fbd1)
-![상품문의답변등록03-web](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/5246c4cd-3a77-4f1c-9368-4c4ea3765f4c)
-![상품문의답변수정-web](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/b9d6f93d-f00a-441b-a8c3-ccd14027aeec)
-
-
-## 매거진 페이지
----
-![__________________-web](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/141a9211-bc28-4f38-819b-7dd622f9b65d)
-
 
 
 
