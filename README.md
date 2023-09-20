@@ -128,10 +128,10 @@ http://localhost:3000/pages
 ## 로그인 페이지
 ---
 ### 일반 회원
-![일반회원 로그인시연](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/b6fd9bcf-c519-493e-856a-96e96c1a0bd7)
+![일반회원로그인시연](https://user-images.githubusercontent.com/114740795/214512388-6263e9bf-7410-442e-80ca-624dffbd02c8.gif)
 
 ### 판매자 회원
-![판매자로그인시연-web](https://github.com/Nemov-frontend/F10-team03-client/assets/114740795/450d76ea-6d33-4c29-b6e2-4822b7a57771)
+![판매자로그인시연-web](https://user-images.githubusercontent.com/114740795/214512665-4bbcd94d-8da8-4503-ba44-cdee06feb0ad.gif)
 
 
 ## 마켓 리스트 페이지
